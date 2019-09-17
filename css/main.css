@@ -1,0 +1,45 @@
+.textty {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items: center;
+}
+.one {
+  text-align: center;
+  margin: 20px;
+  border: 2px dotted black;
+  width: 200px
+}
+
+.box{
+  margin:50px;
+  width:100px
+
+}
+.image {
+  height: 100px;
+  width: 100%;
+}
+
+.boxtext{
+  text-align: center;
+}
+
+.buttn{
+  align:center;
+}
+.button-body {
+  border-radius: 20px;
+  border-color: gray;
+  background: white;
+  padding: 10px;
+}
+
+.button-body:hover {
+  background-color: blue;
+  color: white;
